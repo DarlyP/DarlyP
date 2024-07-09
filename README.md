@@ -1,10 +1,10 @@
-# Hi, Darly Here!
+<h1 align="left">Hi, Darly Here!</h1>
 
 ---
 
-![Banner]()
+![Banner](https://github.com/DarlyP/README.md/blob/main/snapedit_1715371703612.jpeg)
 
-## 👨‍💻 About Me
+<h2 align="left">👨‍💻 About Me:</h2>
 
 "I'm a Data Science and Data Analyst, an analytics alchemist who architects code solutions and embraces the dawn."
 
@@ -14,7 +14,7 @@
 - 💬 Feel Free to discuss **Data Science, Machine Learning, and Deep Learning**
 - ⚡ Fun fact: I am a photographer 📷!
 
-## 🛠 Languages and Tools:
+<h2 align="left">🛠 Languages and Tools:</h2>
 
 <p align="left">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -41,20 +41,20 @@
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
 </p>
 
-## 📊 GitHub Stats:
+<h2 align="left">📊 GitHub Stats:</h2>
 
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=DarlyP&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarlyP&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## 🔥 Streak Stats:
+<h2 align="left">🔥 Streak Stats:</h2>
 
 <p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarlyP&theme=radical" alt="GitHub Streak" />
 </p>
 
-## 🌐 Connect with me:
+<h2 align="left">🌐 Connect with me:</h2>
 
 <p align="left">
     <a href="https://linkedin.com/in/darlyp"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
