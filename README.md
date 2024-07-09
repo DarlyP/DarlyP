@@ -2,17 +2,19 @@
 
 ---
 
-![Banner](https://github.com/DarlyP/README.md/blob/main/snapedit_1715371703612.jpeg)
+<img src="https://github.com/DarlyP/README.md/blob/main/snapedit_1715371703612.jpeg" alt="Banner">
 
 <h2 align="left">👨‍💻 About Me:</h2>
 
-"I'm a Data Science and Data Analyst, an analytics alchemist who architects code solutions and embraces the dawn."
+<p>"I'm a Data Science and Data Analyst, an analytics alchemist who architects code solutions and embraces the dawn."</p>
 
-- 🔭 I’m seeking for a job
-- 🌱 I’m currently learning **Data Analyst**, **Data Science** and **Data Engineering** 
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Feel Free to discuss **Data Science, Machine Learning, and Deep Learning**
-- ⚡ Fun fact: I am a photographer 📷!
+<ul>
+    <li>🔭 I’m seeking for a job</li>
+    <li>🌱 I’m currently learning <b>Data Analyst</b>, <b>Data Science</b>, and <b>Data Engineering</b></li>
+    <li>👯 I’m looking to collaborate on <b>Open Source Projects</b></li>
+    <li>💬 Feel Free to discuss <b>Data Science, Machine Learning, and Deep Learning</b></li>
+    <li>⚡ Fun fact: I am a photographer 📷!</li>
+</ul>
 
 <h2 align="left">🛠 Languages and Tools:</h2>
 
